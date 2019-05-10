@@ -9,7 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
-* Wireframe 1
+* ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 * Wireframe 2
 * Wireframe 3
 
